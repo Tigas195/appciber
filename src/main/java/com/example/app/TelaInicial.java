@@ -20,7 +20,7 @@ public class TelaInicial extends Application {
         grid.setHgap(10);
 
         // Botões para as funcionalidades
-        Button cifrarButton = new Button("Cifrar Ficheiros");
+        Button cifrarButton = new Button("Cifrar()() Ficheiros");
         Button gerarSenhaButton = new Button("Gerar Senha Aleatória");
         Button calcularHashButton = new Button("Calcular Hash");
         Button calcularHMACButton = new Button("Calcular HMAC");
